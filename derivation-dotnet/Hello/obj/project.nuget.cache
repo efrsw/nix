@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2j1y2OCKDmwioCKAOe+eMgB3n+13khHF8NlB2xsyPZNuX07ZnRjXvozYi/6uuPX5qiDp7Q4JJgqpmDULcgsEw==",
+  "success": true,
+  "projectFilePath": "/home/efrsw/git/nix/derivation-dotnet/Hello/Hello.csproj",
+  "expectedPackageFiles": [
+    "/home/efrsw/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.0/microsoft.netcore.app.runtime.linux-x64.8.0.0.nupkg.sha512",
+    "/home/efrsw/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.0/microsoft.aspnetcore.app.runtime.linux-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/efrsw/git/nix/derivation-dotnet/Hello/bin/release/net8.0/Hello
+/home/efrsw/git/nix/derivation-dotnet/Hello/bin/release/net8.0/Hello.deps.json
+/home/efrsw/git/nix/derivation-dotnet/Hello/bin/release/net8.0/Hello.runtimeconfig.json
+/home/efrsw/git/nix/derivation-dotnet/Hello/bin/release/net8.0/Hello.dll
+/home/efrsw/git/nix/derivation-dotnet/Hello/bin/release/net8.0/Hello.pdb
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.AssemblyInfoInputs.cache
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.AssemblyInfo.cs
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.csproj.CoreCompileInputs.cache
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.sourcelink.json
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.dll
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/refint/Hello.dll
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.pdb
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/Hello.genruntimeconfig.cache
+/home/efrsw/git/nix/derivation-dotnet/Hello/obj/release/net8.0/ref/Hello.dll
